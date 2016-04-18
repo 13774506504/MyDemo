@@ -16,7 +16,7 @@
 
 @property (nonatomic, copy) NSMutableArray *subArr; //子菜单
 
-
+@property (nonatomic, copy) NSString *changeStr;    //测试git
 
 #pragma mark --- 网络请求
 /**
